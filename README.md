@@ -7,18 +7,18 @@ R code supporting the landscape-scale resource selection function (RSF), integra
 ```text
 code/
   01_config.R
-  1.RSF/
+  RSF/
     01_prepare_landscape.R
     02_fit_predict_rsf.R
     03_figure4_coefficients.R
     04_figure5_covariates.R
-  2.iSSF/
+  iSSF/
     01_issf_common.R
     02_fit_issf.R
     03_validate_issf.R
     04_figure6_logrss.R
     05_resolution_sensitivity.R
-  3.Simulation/
+  Simulation/
     01_simulation_functions.R
     02_run_connectivity.R
 ```
